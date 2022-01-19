@@ -102,3 +102,11 @@ dist
 
 # TernJS port file
 .tern-port
+yarn.lock
+build/static/js/main.42323de8.js.map
+build/static/js/main.42323de8.js.LICENSE.txt
+build/static/js/main.42323de8.js
+build/static/css/main.b0d45176.css.map
+build/static/css/main.b0d45176.css
+build/index.html
+build/asset-manifest.json

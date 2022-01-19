@@ -6,7 +6,7 @@ const MovieCard = (props) => {
 
   return (
     <div className="card-item">
-      <Link to={`/movie/${data.imdbID}`}>
+      <Link to={`/Movie-Database-Application/movie/${data.imdbID}`}>
         <div className="card-inner">
           <div className="card-top">
             <img src={data.Poster} alt={data.Title} />
